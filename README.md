@@ -1,0 +1,1 @@
+This project is based truely upon Javascript. when we press any key that is displayed in the screen plays a sound and even when we click that we can hear that sound. HTML & CSS is used to design the website.
